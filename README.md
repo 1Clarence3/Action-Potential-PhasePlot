@@ -1,2 +1,2 @@
 # Action-Potential-PhasePlot
-Using Python graphics libraries to differentiate and integrate graphs to determine a phase plot of a single action potential.
+The computer takes in a set of action potentials and “sweeps” one of the action potentials the user chooses to measure. The graph is the. displayed as a phase plot. By treating the graph as a function in the Cartesian plane and differentiating he graph, I found several parameters corresponding with the action potential such as its minimum (AHP or AfterHyper), maximum, maximum rising rate, and minimum rising rate points. 
